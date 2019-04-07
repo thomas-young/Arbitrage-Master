@@ -1,0 +1,9 @@
+[submodule "arbitrage"]
+	path = arbitrage
+	url = https://github.com/thomas-young/arbitrage.git
+[submodule "arbitrage-web"]
+	path = arbitrage-web
+	url = https://github.com/thomas-young/arbitrage-web
+[submodule "cycle_finder"]
+	path = cycle_finder
+	url = https://github.com/thomas-young/cycle_finder.git
